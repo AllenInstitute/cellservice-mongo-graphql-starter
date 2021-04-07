@@ -1,6 +1,6 @@
 # cell service prototype
 
-This repo is a basic cell service using the ts-graphql-starter kit.
+This repo is a basic cell service using the ts-graphql-starter kit, for demo purposes.
 
 The basic functionality includes creating cells and collections out of existing cells, and retrieving cells and collections by ID. Cells must exist in the database to be added to a collection.
 
